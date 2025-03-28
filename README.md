@@ -9,7 +9,7 @@ AI Web Kazıyıcı, web sitelerinden içerik kazıyan ve yapay zeka teknolojisi 
 - Web sitelerinden DOM içeriğini otomatik olarak kazıma
 - Yapay zeka ile belirli veri tiplerini (tablo, liste, bilgi vb.) otomatik çıkarma
 - Farklı formatlarda veri indirme desteği:
-  - Excel (XLSX)
+  - Excel (CSV)
   - JSON
   - Metin (TXT)
 - Kullanıcı dostu Streamlit arayüzü
