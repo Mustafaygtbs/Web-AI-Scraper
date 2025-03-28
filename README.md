@@ -78,3 +78,21 @@ Bu proje, OpenRouter AI servisinin API'sini kullanmaktadır. Ücretsiz bir API a
 ## Not
 
 Bu proje, yalnızca eğitim amaçlı olarak geliştirilmiştir. Web scraping ve verilerin kullanımı konusunda site sahiplerinin kullanım şartlarına ve yasal düzenlemelere uygun hareket edilmelidir. Bu aracı, kullanım şartlarını ihlal edecek şekilde ya da izinsiz veri toplamak için kullanmayınız.
+
+![1](https://github.com/user-attachments/assets/9c7e8286-5ad9-4705-b237-f447fc194ac3)
+
+![2](https://github.com/user-attachments/assets/3727db4b-e476-4c13-9709-bd6606b7fe76)
+
+![3](https://github.com/user-attachments/assets/31ac38a9-3471-467c-ba05-49196f746050)
+
+![4](https://github.com/user-attachments/assets/3137c3e6-941c-452c-a08b-8577de69c83a)
+
+![5](https://github.com/user-attachments/assets/6d047c8e-58af-4964-9338-27d1c4ef8bec)
+
+![6](https://github.com/user-attachments/assets/9f431b62-03f8-4e3e-abf1-e50c8e1909a0)
+
+![7](https://github.com/user-attachments/assets/12e1cbb1-6aab-4f51-9acc-8cea97e8506d)
+
+![8](https://github.com/user-attachments/assets/41ae2fb4-9051-4583-bd92-07c204def90a)
+
+
